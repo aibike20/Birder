@@ -1,0 +1,25 @@
+{
+  "name": "birder",
+  "version": "1.0.0",
+  "description": "Birder is a convinient clone of Twitter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aibike20/Birder.git"
+  },
+  "keywords": [
+    "Twitter",
+    "clone",
+    "express",
+    "MySQL"
+  ],
+  "author": "Zarylbekova Gulsunai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aibike20/Birder/issues"
+  },
+  "homepage": "https://github.com/aibike20/Birder#readme"
+}
